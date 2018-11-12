@@ -1,5 +1,12 @@
 <resources>
-    <string name="app_name">TranslationEditorApp</string>
-    <string name="action_settings">Settings</string>
-    <string name="simple_string">Hello</string>
+
+    <string name="app_name" translatable="false">TranslationEditorApp</string>
+    <string name="text_translation" translatable="false">Hi and welcome to codingdemos,             here you will learn how to develop android app. Thank you for watching</string>
+
+    <string-array name="language_option">
+        <item>English</item>
+        <item>Indonesian</item>
+        <item>Spanish</item>
+    </string-array>
+
 </resources>
